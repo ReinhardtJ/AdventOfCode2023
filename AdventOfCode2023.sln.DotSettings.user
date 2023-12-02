@@ -2,5 +2,7 @@
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9343f9a7_002D2cf8_002D40f7_002D9f27_002Dd6bc39a35d27/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="test_get_calibration_value" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;xUnit::0DDCBDFF-BD4D-4D8D-8351-D469A7A0A466::net5.0::AdventOfCode2023.Day1+MyTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::0DDCBDFF-BD4D-4D8D-8351-D469A7A0A466::net5.0::AdventOfCode2023.Day2.Day2+MyTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::0DDCBDFF-BD4D-4D8D-8351-D469A7A0A466::net5.0::AdventOfCode2023.Day2.Day2&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
